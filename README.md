@@ -2,6 +2,7 @@
 - 👀 I’m interested in Digital Marketing, Web development and Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Web Development via Python.
+- Feel free to reach me out!
 
 <!---
 DarkJober/DarkJober is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
