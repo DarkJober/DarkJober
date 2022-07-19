@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkJober
-- 👀 I’m interested in Digital Marketing, Web development and Python.
+- 👀 I’m interested in Digital Marketing, Analytics, Data, Web development and Python.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Web Development via Python.
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - Feel free to reach me out!
 
 <!---
